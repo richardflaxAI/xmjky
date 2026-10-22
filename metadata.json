@@ -1,0 +1,6 @@
+{
+  "name": "HyperMTZ Launcher",
+  "description": "Android home launcher with full Xiaomi MIUI and HyperOS MTZ icon theme API support, MAML dynamic fancy icons, and PorterDuff masking pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

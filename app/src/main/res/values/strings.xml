@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HyperMTZ</string>
+    <string name="launcher_home_title">HyperMTZ Home</string>
+    <string name="tab_home">Workspace</string>
+    <string name="tab_drawer">App Drawer</string>
+    <string name="tab_mtz_studio">MTZ Studio</string>
+    <string name="tab_icon_lab">API Pipeline</string>
+    <string name="tab_settings">Grid &amp; System</string>
+    <string name="import_mtz_button">Import .MTZ / .MTX Archive</string>
+    <string name="export_sample_mtz">Export Sample .MTZ</string>
+    <string name="set_default_launcher">Set as Default Home Launcher</string>
+    <string name="search_apps_hint">Filter installed packages or activities...</string>
+</resources>
